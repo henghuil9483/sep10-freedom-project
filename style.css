@@ -1,1 +1,14 @@
-
+.space{
+    height:90px;
+}
+h1 {
+    text-align: center;
+    font-size: 100px;
+    font-family: 'EB Garamond', serif;
+    color: #2776EA;
+    font-weight: bold;
+    font-size: 75px;
+}
+body {
+    background-color: #eedd82;
+}
