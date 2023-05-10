@@ -8,8 +8,8 @@ body{
 }
 header{
     width:100%;
-    height:100px;
-    background: #90ee90;
+    height:90px;
+    background: black;
     position:fixed;
 }
 .logo{
@@ -43,8 +43,17 @@ nav a:hover{
     color:#130f40;
 }
 .banner-area{
-    background-image: url(https://images.template.net/87288/free-technology-powerpoint-background-txgfo.jpg);
+    background-image: url('https://img.lovepik.com/background/20211021/large/lovepik-blue-technology-background-image_400163397.jpg');
     background-size:cover;
-    background-position: center
+    background-position: center center;
     top:100px;
+    height:100vh;
+    position:fixed;
+}
+
+.font-color {
+    color: white;
+}
+.space{
+    height:42px;
 }
