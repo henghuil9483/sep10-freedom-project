@@ -43,5 +43,8 @@ nav a:hover{
     color:#130f40;
 }
 .banner-area{
-    background-image: url(images/img1.png);
+    background-image: url(https://images.template.net/87288/free-technology-powerpoint-background-txgfo.jpg);
+    background-size:cover;
+    background-position: center
+    top:100px;
 }
