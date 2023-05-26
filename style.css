@@ -102,6 +102,7 @@ body {
 
 .hero-content{
 color:white;
+margin: 100px;
 }
 
 .hero-wrapper{
@@ -264,4 +265,24 @@ h3{
     color: black;
     padding: 40px;
     text-align: center;
+  }
+
+  h3{
+    color:white
+  }
+
+  p{
+    color:white;
+  }
+
+  body {
+    background-image: url('https://media.istockphoto.com/id/1302189748/photo/digital-cyberspace-with-particles-and-digital-data-network-connections-high-speed-connection.jpg?b=1&s=612x612&w=0&k=20&c=bwDXyw4wOGrBQOQ2Z15DUApR8H2MNogIaIIZp9jnuoQ=');
+  }
+
+  .card-text{
+    color:black;
+  }
+
+  .animate__animated.animate__infinite {
+    animation-iteration-count: infinite;
   }
